@@ -10,4 +10,6 @@
 ## 值得贡献的项目
 
 - [上海大学排课助手](https://github.com/shuosc/shu-scheduling-helper)
-- [我们自己的RISC-V Soc](https://github.com/shuosc/shuorv)
+- [我们自己的 RISC-V Soc](https://github.com/shuosc/shuorv)
+- [我们自己的 RISC-V 汇编器](https://github.com/shuosc/shuasm)
+- [我们自己的编译器](https://github.com/shuosc/Come)
