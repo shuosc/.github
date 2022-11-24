@@ -9,6 +9,8 @@
 
 ## 值得贡献的项目
 
+可以从 [任务公告板](https://github.com/orgs/shuosc/projects/3) 上快速找到可以贡献的 issue。
+
 - [上海大学排课助手](https://github.com/shuosc/shu-scheduling-helper)
 - [我们自己的 RISC-V Soc](https://github.com/shuosc/shuorv)
 - [我们自己的 RISC-V 汇编器](https://github.com/shuosc/shuasm)
