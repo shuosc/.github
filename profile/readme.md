@@ -6,6 +6,7 @@
 
 - [上海大学排课助手](https://xk.shuosc.com/)
 - [上海大学本科生毕业论文latex模板](https://github.com/shuosc/SHU-Bachelor-Thesis-OSC)
+- [上海大学本科生毕业论文typst模板](https://github.com/shuosc/SHU-Bachelor-Thesis-Typst)
 
 ## 值得贡献的项目
 
