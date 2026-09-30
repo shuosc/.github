@@ -4,7 +4,8 @@
 
 ## 提供的服务
 
-- [上海大学排课助手](https://xk.shuosc.com/)
+- [Shuyo校园助手](https://shuyo.work/doc/)
+- [SHUVPN](https://github.com/shuosc/ShuVPN)
 - [上海大学本科生毕业论文latex模板](https://github.com/shuosc/SHU-Bachelor-Thesis-OSC)
 - [上海大学本科生毕业论文typst模板](https://github.com/shuosc/SHU-Bachelor-Thesis-Typst)
 
@@ -12,7 +13,9 @@
 
 可以从 [任务公告板](https://github.com/orgs/shuosc/projects/3) 上快速找到可以贡献的 issue。
 
-- [上海大学排课助手](https://github.com/shuosc/shu-scheduling-helper)
+- [校园助手](https://github.com/shuosc/ShuYo)
+- [上大第三方VPN集成APP](https://github.com/shuosc/ShuVPN)
+- [上海大学排课助手(Archived)](https://github.com/shuosc/shu-scheduling-helper)
 - [我们自己的 RISC-V Soc](https://github.com/shuosc/shuorv)
 - [我们自己的 RISC-V 汇编器](https://github.com/shuosc/shuasm)
 - [我们自己的编译器](https://github.com/shuosc/Come)
